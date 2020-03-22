@@ -1,0 +1,7 @@
+echo Description='A simple WPA encrypted wireless connection' >> /etc/netctl/$1
+echo Interface=wlp18s0b1 >> /etc/netctl/$1
+echo Connection=wireless >> /etc/netctl/$1
+echo Security=wpa >> /etc/netctl/$1
+echo IP=dhcp >> /etc/netctl/$1
+echo ESSID="'"$1"'">> /etc/netctl/$1
+echo Key="'"$2"'">> /etc/netctl/$1

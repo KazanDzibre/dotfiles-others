@@ -1,0 +1,13 @@
+[ -z "$2" ] && echo "Usage: $0 <ESSID> <WiFi-Password>" && exit
+
+cd /etc/netctl/
+if find $1 >> /home/rule/logFiles/logWifi.txt
+then
+    echo connecting...
+    sudo netctl start $1
+else
+    echo no such wifi available, creating one and connecting...
+    createWifi $1 $2
+    sudo netctl start $1
+fi
+
