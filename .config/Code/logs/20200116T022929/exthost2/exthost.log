@@ -1,0 +1,74 @@
+[2020-01-16 02:29:35.497] [exthost] [info] extension host started
+[2020-01-16 02:29:35.751] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-01-16 02:29:35.752] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-01-16 02:29:35.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-16 02:29:35.786] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-16 02:29:35.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-16 02:29:35.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2020-01-16 02:29:35.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-16 02:29:35.853] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-01-16 02:29:35.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-16 02:29:35.906] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-16 02:29:35.913] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-16 02:29:35.913] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-16 02:29:35.917] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-01-16 02:29:35.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-01-16 02:29:35.959] [exthost] [info] ExtensionService#_doActivateExtension tintoy.msbuild-project-tools {"startup":true,"extensionId":{"value":"doggy8088.netcore-snippets","_lower":"doggy8088.netcore-snippets"},"activationEvent":"*"}
+[2020-01-16 02:29:35.960] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/tintoy.msbuild-project-tools-0.3.3/out/src/extension/extension
+[2020-01-16 02:29:36.398] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2020-01-16 02:29:36.398] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/ms-vscode.cpptools-0.26.3-insiders3/dist/main
+[2020-01-16 02:29:36.596] [exthost] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"extensionId":{"value":"schneiderpat.aspnet-helper","_lower":"schneiderpat.aspnet-helper"},"activationEvent":"*"}
+[2020-01-16 02:29:36.596] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2020-01-16 02:29:36.689] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-01-16 02:29:36.689] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-01-16 02:29:37.698] [exthost] [info] ExtensionService#_doActivateExtension doggy8088.netcore-snippets {"startup":true,"extensionId":{"value":"doggy8088.netcore-snippets","_lower":"doggy8088.netcore-snippets"},"activationEvent":"*"}
+[2020-01-16 02:29:37.698] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/doggy8088.netcore-snippets-3.1.4/src/extension
+[2020-01-16 02:29:37.836] [exthost] [info] eager extensions activated
+[2020-01-16 02:30:28.715] [exthost] [info] extension host started
+[2020-01-16 02:30:28.813] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-01-16 02:30:28.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-01-16 02:30:28.824] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:c"}
+[2020-01-16 02:30:28.825] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/ms-vscode.cpptools-0.26.3-insiders3/dist/main
+[2020-01-16 02:30:28.930] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-16 02:30:28.930] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-16 02:30:28.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-16 02:30:28.937] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2020-01-16 02:30:28.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-16 02:30:28.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2020-01-16 02:30:29.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-16 02:30:29.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-16 02:30:29.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-16 02:30:29.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-16 02:30:29.083] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-01-16 02:30:29.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2020-01-16 02:30:29.111] [exthost] [info] ExtensionService#_doActivateExtension tintoy.msbuild-project-tools {"startup":true,"extensionId":{"value":"doggy8088.netcore-snippets","_lower":"doggy8088.netcore-snippets"},"activationEvent":"*"}
+[2020-01-16 02:30:29.111] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/tintoy.msbuild-project-tools-0.3.3/out/src/extension/extension
+[2020-01-16 02:30:29.335] [exthost] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":true,"extensionId":{"value":"schneiderpat.aspnet-helper","_lower":"schneiderpat.aspnet-helper"},"activationEvent":"*"}
+[2020-01-16 02:30:29.336] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2020-01-16 02:30:29.420] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-01-16 02:30:29.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-01-16 02:30:30.674] [exthost] [info] eager extensions activated
+[2020-01-16 02:30:31.327] [exthost] [info] ExtensionService#_doActivateExtension doggy8088.netcore-snippets {"startup":true,"extensionId":{"value":"doggy8088.netcore-snippets","_lower":"doggy8088.netcore-snippets"},"activationEvent":"*"}
+[2020-01-16 02:30:31.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/doggy8088.netcore-snippets-3.1.4/src/extension
+[2020-01-16 02:34:11.112] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-01-16 02:34:11.112] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2020-01-16 02:34:11.167] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":false,"extensionId":{"value":"ms-vscode.csharp","_lower":"ms-vscode.csharp"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-01-16 02:34:11.168] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/dist/extension
+[2020-01-16 02:34:11.838] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-01-16 02:34:11.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.node-debug/dist/extension.js
+[2020-01-16 02:34:17.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-16 02:34:17.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2020-01-16 02:34:17.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-16 02:34:17.973] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-01-16 02:34:18.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-16 02:34:18.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-01-16 02:41:24.029] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2020-01-16 02:41:24.031] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-server-ready/dist/extension
+[2020-01-16 02:41:24.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-01-16 02:41:24.298] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/grunt/dist/main
+[2020-01-16 02:41:24.354] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-01-16 02:41:24.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/gulp/dist/main
+[2020-01-16 02:41:24.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-01-16 02:41:24.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/jake/dist/main
+[2020-01-16 02:41:24.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-01-16 02:41:24.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/main

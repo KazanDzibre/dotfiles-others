@@ -1,0 +1,19 @@
+[2020-03-05 20:39:20.447] [sharedprocess] [info] main {"machineId":"57b44c70e96195622685da6ffdbfef116432e5b14bea027deabab107ba0cc455","windowId":2}
+[2020-03-05 20:39:24.240] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2020-03-05 20:39:24.241] [sharedprocess] [info] Installing extension: pflannery.vscode-versionlens
+[2020-03-05 20:39:24.959] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp /tmp/015f878f-bbe8-4f51-bd6b-a8ee61c2f0d1
+[2020-03-05 20:39:25.086] [sharedprocess] [info] Extracted extension to /home/rule/.vscode/extensions/.ms-dotnettools.csharp-1.21.13: ms-dotnettools.csharp
+[2020-03-05 20:39:25.086] [sharedprocess] [info] Renamed to /home/rule/.vscode/extensions/ms-dotnettools.csharp-1.21.13
+[2020-03-05 20:39:25.091] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2020-03-05 20:39:25.318] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2020-03-05 20:39:26.838] [sharedprocess] [info] Downloaded extension: pflannery.vscode-versionlens /tmp/18b11154-8a75-4a13-92b8-4fde9752d578
+[2020-03-05 20:39:32.803] [sharedprocess] [info] Extracted extension to /home/rule/.vscode/extensions/.pflannery.vscode-versionlens-0.25.0: pflannery.vscode-versionlens
+[2020-03-05 20:39:32.804] [sharedprocess] [info] Renamed to /home/rule/.vscode/extensions/pflannery.vscode-versionlens-0.25.0
+[2020-03-05 20:39:32.815] [sharedprocess] [info] Installation completed. pflannery.vscode-versionlens
+[2020-03-05 20:39:33.175] [sharedprocess] [info] Extensions installed successfully: pflannery.vscode-versionlens
+[2020-03-05 20:39:45.264] [sharedprocess] [info] Installing the extension: ms-vscode.cpptools
+[2020-03-05 20:39:46.996] [sharedprocess] [info] Extracted extension to /home/rule/.vscode/extensions/.ms-vscode.cpptools-0.27.0-insiders2: ms-vscode.cpptools
+[2020-03-05 20:39:46.997] [sharedprocess] [info] Renamed to /home/rule/.vscode/extensions/ms-vscode.cpptools-0.27.0-insiders2
+[2020-03-05 20:39:47.001] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-03-05 20:39:47.060] [sharedprocess] [info] Successfully installed the extension: ms-vscode.cpptools
+[2020-03-05 20:40:00.461] [sharedprocess] [info] Starting to clean up unused language packs.

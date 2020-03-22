@@ -1,0 +1,19 @@
+[2020-01-12 03:06:26.381] [sharedprocess] [info] main {"machineId":"57b44c70e96195622685da6ffdbfef116432e5b14bea027deabab107ba0cc455","windowId":2}
+[2020-01-12 03:06:33.877] [sharedprocess] [info] Installing extension: doggy8088.netcore-snippets
+[2020-01-12 03:06:33.878] [sharedprocess] [info] Installing extension: tintoy.msbuild-project-tools
+[2020-01-12 03:06:34.509] [sharedprocess] [info] Downloaded extension: doggy8088.netcore-snippets /tmp/322648f9-a74a-4ee1-859b-f56db9d505d6
+[2020-01-12 03:06:34.589] [sharedprocess] [info] Extracted extension to /home/rule/.vscode/extensions/.doggy8088.netcore-snippets-3.1.4: doggy8088.netcore-snippets
+[2020-01-12 03:06:34.590] [sharedprocess] [info] Renamed to /home/rule/.vscode/extensions/doggy8088.netcore-snippets-3.1.4
+[2020-01-12 03:06:34.591] [sharedprocess] [info] Installation completed. doggy8088.netcore-snippets
+[2020-01-12 03:06:35.165] [sharedprocess] [info] Extensions installed successfully: doggy8088.netcore-snippets
+[2020-01-12 03:06:37.340] [sharedprocess] [info] Downloaded extension: tintoy.msbuild-project-tools /tmp/9313ef00-d668-4d71-ad97-6a5c209583d5
+[2020-01-12 03:06:42.517] [sharedprocess] [info] Extracted extension to /home/rule/.vscode/extensions/.tintoy.msbuild-project-tools-0.3.3: tintoy.msbuild-project-tools
+[2020-01-12 03:06:42.517] [sharedprocess] [info] Renamed to /home/rule/.vscode/extensions/tintoy.msbuild-project-tools-0.3.3
+[2020-01-12 03:06:42.520] [sharedprocess] [info] Installation completed. tintoy.msbuild-project-tools
+[2020-01-12 03:06:42.866] [sharedprocess] [info] Extensions installed successfully: tintoy.msbuild-project-tools
+[2020-01-12 03:07:06.635] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-12 03:07:58.550] [sharedprocess] [info] Installing the extension: ms-vscode.cpptools
+[2020-01-12 03:08:01.831] [sharedprocess] [info] Extracted extension to /home/rule/.vscode/extensions/.ms-vscode.cpptools-0.26.3-insiders3: ms-vscode.cpptools
+[2020-01-12 03:08:01.831] [sharedprocess] [info] Renamed to /home/rule/.vscode/extensions/ms-vscode.cpptools-0.26.3-insiders3
+[2020-01-12 03:08:01.836] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-01-12 03:08:01.901] [sharedprocess] [info] Successfully installed the extension: ms-vscode.cpptools

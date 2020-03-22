@@ -1,0 +1,110 @@
+[2019-12-23 16:15:40.440] [exthost] [info] extension host started
+[2019-12-23 16:15:40.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-23 16:15:40.474] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-23 16:15:40.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-23 16:15:40.543] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-12-23 16:15:40.631] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-23 16:15:40.631] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-12-23 16:15:40.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-23 16:15:40.745] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-23 16:15:40.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2019-12-23 16:15:40.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2019-12-23 16:15:40.997] [exthost] [info] eager extensions activated
+[2019-12-23 16:16:16.100] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":false,"extensionId":{"value":"ms-vscode.csharp","_lower":"ms-vscode.csharp"},"activationEvent":"workspaceContains:project.json"}
+[2019-12-23 16:16:16.100] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/dist/extension
+[2019-12-23 16:16:30.036] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-23 16:16:30.038] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2019-12-23 16:16:30.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-23 16:16:30.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extension
+[2019-12-23 16:16:30.297] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2019-12-23 16:16:30.297] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-12-23 16:16:30.368] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2019-12-23 16:16:30.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/main
+[2019-12-23 16:16:35.463] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.dotnet-test-explorer {"startup":false,"extensionId":{"value":"formulahendry.dotnet-test-explorer","_lower":"formulahendry.dotnet-test-explorer"},"activationEvent":"workspaceContains:**/*.csproj"}
+[2019-12-23 16:16:35.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/formulahendry.dotnet-test-explorer-0.7.1/out/src/extension
+[2019-12-23 16:18:39.968] [exthost] [info] extension host started
+[2019-12-23 16:18:40.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-23 16:18:40.004] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-23 16:18:40.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-23 16:18:40.008] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-12-23 16:18:40.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-23 16:18:40.028] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-12-23 16:18:40.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-23 16:18:40.049] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-23 16:18:40.053] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2019-12-23 16:18:40.053] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2019-12-23 16:18:42.189] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.dotnet-test-explorer {"startup":true,"extensionId":{"value":"formulahendry.dotnet-test-explorer","_lower":"formulahendry.dotnet-test-explorer"},"activationEvent":"workspaceContains:**/*.csproj,**/*.fsproj"}
+[2019-12-23 16:18:42.189] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/formulahendry.dotnet-test-explorer-0.7.1/out/src/extension
+[2019-12-23 16:18:42.729] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":true,"extensionId":{"value":"ms-vscode.csharp","_lower":"ms-vscode.csharp"},"activationEvent":"workspaceContains:*.csproj,*.sln,*.csx,*.cake,**/*.csproj,**/*.sln,**/*.csx,**/*.cake"}
+[2019-12-23 16:18:42.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/dist/extension
+[2019-12-23 16:18:43.047] [exthost] [info] eager extensions activated
+[2019-12-23 16:21:40.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-23 16:21:40.686] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2019-12-23 16:21:40.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-23 16:21:40.691] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extension
+[2019-12-23 16:21:40.723] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2019-12-23 16:21:40.723] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-12-23 16:21:40.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2019-12-23 16:21:40.745] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/main
+[2019-12-23 16:21:42.034] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2019-12-23 16:21:42.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-12-23 16:21:43.381] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:csharp"}
+[2019-12-23 16:21:43.381] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2019-12-23 16:21:43.632] [exthost] [info] ExtensionService#_doActivateExtension Leopotam.csharpfixformat {"startup":false,"extensionId":{"value":"Leopotam.csharpfixformat","_lower":"leopotam.csharpfixformat"},"activationEvent":"onLanguage:csharp"}
+[2019-12-23 16:21:43.633] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/leopotam.csharpfixformat-0.0.84/out/extension.js
+[2019-12-23 16:21:43.777] [exthost] [info] ExtensionService#_doActivateExtension k--kato.docomment {"startup":false,"extensionId":{"value":"k--kato.docomment","_lower":"k--kato.docomment"},"activationEvent":"onLanguage:csharp"}
+[2019-12-23 16:21:43.777] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/k--kato.docomment-0.1.8/out/src/extension
+[2019-12-23 16:21:45.178] [exthost] [info] ExtensionService#_doActivateExtension craigthomas.supersharp {"startup":false,"extensionId":{"value":"craigthomas.supersharp","_lower":"craigthomas.supersharp"},"activationEvent":"onLanguage:csharp"}
+[2019-12-23 16:21:45.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/craigthomas.supersharp-0.1.4/out/extension
+[2019-12-23 16:21:45.772] [exthost] [info] ExtensionService#_doActivateExtension adrianwilczynski.asp-net-core-switcher {"startup":false,"extensionId":{"value":"adrianwilczynski.asp-net-core-switcher","_lower":"adrianwilczynski.asp-net-core-switcher"},"activationEvent":"onLanguage:csharp"}
+[2019-12-23 16:21:45.772] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/adrianwilczynski.asp-net-core-switcher-2.0.2/out/extension.js
+[2019-12-23 16:21:46.063] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":false,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2019-12-23 16:21:46.063] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-12-23 16:21:47.983] [exthost] [info] ExtensionService#_doActivateExtension jchannon.csharpextensions {"startup":false,"extensionId":{"value":"jchannon.csharpextensions","_lower":"jchannon.csharpextensions"},"activationEvent":"onLanguage:csharp"}
+[2019-12-23 16:21:47.983] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/jchannon.csharpextensions-1.3.1/out/src/extension
+[2019-12-23 16:21:48.210] [exthost] [info] ExtensionService#_doActivateExtension schneiderpat.aspnet-helper {"startup":false,"extensionId":{"value":"schneiderpat.aspnet-helper","_lower":"schneiderpat.aspnet-helper"},"activationEvent":"*"}
+[2019-12-23 16:21:48.210] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/schneiderpat.aspnet-helper-0.6.4/out/src/extension
+[2019-12-23 16:21:57.962] [exthost] [info] ExtensionService#_doActivateExtension tintoy.msbuild-project-tools {"startup":false,"extensionId":{"value":"tintoy.msbuild-project-tools","_lower":"tintoy.msbuild-project-tools"},"activationEvent":"workspaceContains:NuGet.config"}
+[2019-12-23 16:21:57.962] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/tintoy.msbuild-project-tools-0.3.2/out/src/extension/extension
+[2019-12-23 16:21:58.664] [exthost] [info] ExtensionService#_doActivateExtension doggy8088.netcore-snippets {"startup":false,"extensionId":{"value":"doggy8088.netcore-snippets","_lower":"doggy8088.netcore-snippets"},"activationEvent":"*"}
+[2019-12-23 16:21:58.664] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/doggy8088.netcore-snippets-3.1.3/src/extension
+[2019-12-23 16:22:01.330] [exthost] [info] ExtensionService#_doActivateExtension pflannery.vscode-versionlens {"startup":false,"extensionId":{"value":"pflannery.vscode-versionlens","_lower":"pflannery.vscode-versionlens"},"activationEvent":"onLanguage:json"}
+[2019-12-23 16:22:01.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rule/.vscode/extensions/pflannery.vscode-versionlens-0.24.0/out/extension-bundle.js
+[2019-12-23 16:22:03.690] [exthost] [error] [jchannon.csharpextensions] provider FAILED
+[2019-12-23 16:22:03.691] [exthost] [error] Error: Illegal argument: line must be non-negative
+    at Object.t.illegalArgument (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:9:868)
+    at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:360:567)
+    at new p (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:359:919)
+    at CodeActionProvider.getInitializeFromCtorCommand (/home/rule/.vscode/extensions/jchannon.csharpextensions-1.3.1/out/src/codeActionProvider.js:166:61)
+    at addInitalizeFromCtor (/home/rule/.vscode/extensions/jchannon.csharpextensions-1.3.1/out/src/codeActionProvider.js:15:28)
+    at CodeActionProvider.provideCodeActions (/home/rule/.vscode/extensions/jchannon.csharpextensions-1.3.1/out/src/codeActionProvider.js:19:9)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:576:562
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:287
+    at new Promise (<anonymous>:null:null)
+    at Object.t.asPromise (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:259)
+    at P.provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:576:533)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:595:972
+    at B._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:591:697)
+    at B.$provideCodeActions (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:595:950)
+    at p._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:663:275)
+    at p._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:662:971)
+    at p._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:661:588)
+    at p._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:660:468)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:658:691
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:189:274)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:820:285
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:189:274)
+    at t.PersistentProtocol._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:193:629)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:190:824
+    at l.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:737)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:89
+    at Socket.t (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:195:68)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+

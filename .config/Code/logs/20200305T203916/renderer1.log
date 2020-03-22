@@ -1,0 +1,5 @@
+[2020-03-05 20:43:02.693] [renderer1] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507

@@ -1,0 +1,110 @@
+[2020-01-16 02:44:04.072] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 02:45:33.581] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 02:55:30.201] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 02:57:55.626] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 02:58:18.277] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:00:20.980] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:12:09.046] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:12:13.265] [renderer2] [error] no debug adapter found: Error: no debug adapter found
+    at t.RawDebugSession.handleErrorResponse (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2821:819)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2821:250
+    at async R.fetchThreads (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5120:411)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5120:917
+[2020-01-16 03:12:20.219] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:13:16.642] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:13:47.968] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:14:28.980] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:16:33.258] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:17:04.990] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:19:13.268] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:23:46.863] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:33:30.005] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:34:42.974] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:35:25.789] [renderer2] [error] ioctl(2) failed, ENOTTY: Error: ioctl(2) failed, ENOTTY
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:36:16.963] [renderer2] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2821:819)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2821:250
+    at async t.RawDebugSession.shutdown (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2819:336)
+    at async R.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5113:637)
+[2020-01-16 03:36:46.709] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507
+[2020-01-16 03:42:21.822] [renderer2] [error] ioctl(2) failed, EBADF: Error: ioctl(2) failed, EBADF
+    at UnixTerminal.resize (/opt/visual-studio-code/resources/app/node_modules.asar/node-pty/lib/unixTerminal.js:238:13)
+    at b.resize (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2961:500)
+    at w.setDimensions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3805:55)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3832:507

@@ -1,0 +1,56 @@
+Starting OmniSharp server at 12/23/2019, 4:18:43 PM
+    Target: /home/rule/programming/Projekat_C#/Projekat/CsvInput/ServerApp.sln
+
+OmniSharp server started.
+    Path: /home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/.omnisharp/1.34.9/run
+    PID: 3141
+
+[info]: OmniSharp.Stdio.Host
+        Starting OmniSharp on arch 0.0 (x64)
+[info]: OmniSharp.Services.DotNetCliService
+        DotNetPath set to dotnet
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Located 1 MSBuild instance(s)
+            1: StandAlone 16.3 - "/home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/.omnisharp/1.34.9/omnisharp/.msbuild/Current/Bin"
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        MSBUILD_EXE_PATH environment variable set to '/home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/.omnisharp/1.34.9/omnisharp/.msbuild/Current/Bin/MSBuild.dll'
+[info]: OmniSharp.MSBuild.Discovery.MSBuildLocator
+        Registered MSBuild instance: StandAlone 16.3 - "/home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/.omnisharp/1.34.9/omnisharp/.msbuild/Current/Bin"
+            CscToolExe = csc.exe
+            MSBuildToolsPath = /home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/.omnisharp/1.34.9/omnisharp/.msbuild/Current/Bin
+            CscToolPath = /home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/.omnisharp/1.34.9/omnisharp/.msbuild/Current/Bin/Roslyn
+            BypassFrameworkInstallChecks = true
+            MSBuildExtensionsPath = /home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/.omnisharp/1.34.9/omnisharp/.msbuild
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Detecting Cake files in '/home/rule/programming/Projekat_C#/Projekat/CsvInput'.
+[info]: OmniSharp.Cake.CakeProjectSystem
+        Could not find any Cake files
+[info]: OmniSharp.MSBuild.ProjectSystem
+        Detecting projects in '/home/rule/programming/Projekat_C#/Projekat/CsvInput/ServerApp.sln'.
+[info]: OmniSharp.MSBuild.ProjectManager
+        Queue project update for '/home/rule/programming/Projekat_C#/Projekat/CsvInput/ConsoleApp1/ServerApp.csproj'
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Detecting CSX files in '/home/rule/programming/Projekat_C#/Projekat/CsvInput'.
+[info]: OmniSharp.Script.ScriptProjectSystem
+        Could not find any CSX files
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.CSharpFormattingWorkspaceOptionsProvider, Order: 0
+[info]: OmniSharp.MSBuild.ProjectManager
+        Loading project: /home/rule/programming/Projekat_C#/Projekat/CsvInput/ConsoleApp1/ServerApp.csproj
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.RenameWorkspaceOptionsProvider, Order: 100
+[info]: OmniSharp.WorkspaceInitializer
+        Invoking Workspace Options Provider: OmniSharp.Roslyn.CSharp.Services.EditorConfigWorkspaceOptionsProvider, Order: 200
+[info]: OmniSharp.WorkspaceInitializer
+        Configuration finished.
+[info]: OmniSharp.Stdio.Host
+        Omnisharp server running using Stdio at location '/home/rule/programming/Projekat_C#/Projekat/CsvInput' on host 3044.
+[fail]: OmniSharp.MSBuild.ProjectLoader
+        The reference assemblies for .NETFramework,Version=v4.5.2 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+[warn]: OmniSharp.MSBuild.ProjectManager
+        Failed to load project file '/home/rule/programming/Projekat_C#/Projekat/CsvInput/ConsoleApp1/ServerApp.csproj'.
+/home/rule/programming/Projekat_C#/Projekat/CsvInput/ConsoleApp1/ServerApp.csproj
+/home/rule/.vscode/extensions/ms-vscode.csharp-1.21.9/.omnisharp/1.34.9/omnisharp/.msbuild/Current/Bin/Microsoft.Common.CurrentVersion.targets(1191,5): Error: The reference assemblies for .NETFramework,Version=v4.5.2 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+
+[fail]: OmniSharp.MSBuild.ProjectManager
+        Attempted to update project that is not loaded: /home/rule/programming/Projekat_C#/Projekat/CsvInput/ConsoleApp1/ServerApp.csproj
