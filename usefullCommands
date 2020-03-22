@@ -1,0 +1,56 @@
+#ako ne radi WiFI
+netctl start Marko-NoviSad
+
+#za zvuk
+alsamixer
+
+#za kacenje na novi wifi
+Firstly, we need to get the name of out wireless adapter
+--------
+iwconfig
+--------
+The name usually starts from wlp...
+Now we need to create netctl configuration file
+1) copy example
+2) edit
+------------------------------------------------------------------
+sudo cp /etc/netctl/examples/wireless-wpa /etc/netctl/network-name
+sudo nano /etc/netctl/network-name
+------------------------------------------------------------------
+Change INTERFACE, ESSID, KEY
+Start netctl service
+------------------------------
+sudo netctl start network-name
+------------------------------
+All commands:
+(for example my interface will be WLAN0 and my network-name will be NAME)
+iwconfig
+sudo cp /etc/netctl/examples/wireless-wpa /etc/netctl/NAME
+sudo nano /etc/netctl/NAME
+Interface=wlan0
+ESSID='NAME'
+Key='your password'
+########################################################################
+
+ovo ko flux
+reshift
+
+# HDMI
+xrandr --output HDMI-1 --mode <rezolucija> --rate 60
+xrandr --output HDMI-1 --auto
+xrandr -s 0
+# za stream zvuka
+pavucontrol
+
+
+# Ako hoces neku skriptu da teras odakle oces turi je u /usr/local/bin
+#
+#for pdf 
+zathura
+
+#For ssh server
+sudo systemctl start sshd
+
+#To get to tty
+Ctrl + Alt + f2/f3
+
