@@ -1,6 +1,0 @@
-2020/02/21-20:54:18.435 2f362 Reusing MANIFEST /home/rule/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/02/21-20:54:18.436 2f362 Recovering log #4
-2020/02/21-20:54:18.531 2f362 Reusing old log /home/rule/.config/google-chrome/Default/Local Storage/leveldb/000004.log 
-2020/02/21-20:54:34.265 2f51c Level-0 table #8: started
-2020/02/21-20:54:34.342 2f51c Level-0 table #8: 19466 bytes OK
-2020/02/21-20:54:34.380 2f51c Delete type=0 #4

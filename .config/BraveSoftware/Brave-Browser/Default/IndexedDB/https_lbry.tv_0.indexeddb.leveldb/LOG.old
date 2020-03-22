@@ -1,6 +1,0 @@
-2020/01/30-01:29:37.675 3dc7e Reusing MANIFEST /home/rule/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/MANIFEST-000001
-2020/01/30-01:29:37.676 3dc7e Recovering log #3
-2020/01/30-01:29:38.193 3dc7e Reusing old log /home/rule/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/000003.log 
-2020/01/30-01:37:17.726 3f2a7 Level-0 table #5: started
-2020/01/30-01:37:17.946 3f2a7 Level-0 table #5: 2477472 bytes OK
-2020/01/30-01:37:18.013 3f2a7 Delete type=0 #3

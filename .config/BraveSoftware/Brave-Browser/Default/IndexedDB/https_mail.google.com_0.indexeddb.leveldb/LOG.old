@@ -1,6 +1,0 @@
-2020/01/28-16:31:27.866 3b6 Reusing MANIFEST /home/rule/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/01/28-16:31:27.867 3b6 Recovering log #17
-2020/01/28-16:31:28.169 3b6 Reusing old log /home/rule/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000017.log 
-2020/01/28-16:31:47.769 796 Level-0 table #23: started
-2020/01/28-16:31:47.878 796 Level-0 table #23: 1691897 bytes OK
-2020/01/28-16:31:47.992 796 Delete type=0 #17

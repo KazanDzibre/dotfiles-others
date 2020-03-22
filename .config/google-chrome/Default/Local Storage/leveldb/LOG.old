@@ -1,6 +1,0 @@
-2020/02/19-14:59:17.658 5f0 Reusing MANIFEST /home/rule/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/02/19-14:59:17.658 5f0 Recovering log #3
-2020/02/19-14:59:17.820 5f0 Reusing old log /home/rule/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
-2020/02/19-15:01:12.721 eee Level-0 table #5: started
-2020/02/19-15:01:12.803 eee Level-0 table #5: 18665 bytes OK
-2020/02/19-15:01:12.936 eee Delete type=0 #3

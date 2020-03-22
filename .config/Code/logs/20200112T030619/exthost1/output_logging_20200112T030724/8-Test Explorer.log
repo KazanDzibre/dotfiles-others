@@ -1,9 +1,0 @@
-Starting extension
-Finding projects for pattern /home/rule/programming/Projekat_C#/
-Found 1 matches for pattern in folder /home/rule/programming/Projekat_C#
-Finding projects for pattern /home/rule/programming/C/domaciZad/
-Found 1 matches for pattern in folder /home/rule/programming/C/domaciZad
-Evaluating match /home/rule/programming/Projekat_C#/
-[WARNING] Skipping path /home/rule/programming/Projekat_C#/ since it does not contain something we can build (.sln, .csproj, .fsproj)
-Evaluating match /home/rule/programming/C/domaciZad/
-[WARNING] Skipping path /home/rule/programming/C/domaciZad/ since it does not contain something we can build (.sln, .csproj, .fsproj)

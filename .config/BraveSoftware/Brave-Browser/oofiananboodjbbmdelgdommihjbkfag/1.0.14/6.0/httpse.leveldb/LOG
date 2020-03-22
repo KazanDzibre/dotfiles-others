@@ -1,7 +1,0 @@
-2020/03/22-16:07:44.940 4eb Recovering log #3
-2020/03/22-16:07:45.173 4eb Level-0 table #5: started
-2020/03/22-16:07:45.775 4eb Level-0 table #5: 2771043 bytes OK
-2020/03/22-16:07:45.782 4eb Recovering log #314
-2020/03/22-16:07:46.221 4eb Delete type=0 #3
-2020/03/22-16:07:46.221 4eb Delete type=3 #2
-2020/03/22-16:07:46.221 4eb Delete type=0 #314
